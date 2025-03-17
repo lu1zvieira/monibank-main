@@ -9,6 +9,13 @@ Projeto realizado de acordo com o curso: JavaScript: Validando Formulários da A
 
 
 ### 🎯 **Monibank - Formulário**
+Como aplicar atributos de validação de formulário com HTML5
+Construi validações para os dígitos verificadores do CPF
+Implementei validações de maioridade a partir da comparação de datas
+Customizei mensagens de erro para cada tipo de campo do formulário
+Integrei a webcam do usuário em uma tela do navegador
+Capture fotos via webcam
+Salve e edite dados salvos no navegador
  
 ### 🚀 Tecnologias
 <div>
